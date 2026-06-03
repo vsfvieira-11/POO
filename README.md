@@ -2,7 +2,7 @@
 
 ## Descrição Geral
 
-Este é um sistema de **Programação Orientada a Objetos** (POO) que modela elementos químicos, átomos individuais e ligações covalentes, permitindo a representação e análise de moléculas químicas.
+Sistema de **Programação Orientada a Objetos** (POO) que modela elementos químicos, átomos individuais e ligações covalentes, permitindo a representação e análise de moléculas químicas.
 
 ## Estrutura do Projeto
 
